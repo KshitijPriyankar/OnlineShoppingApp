@@ -29,7 +29,7 @@ The *Online Shopping Android App* is a comprehensive e-commerce application desi
 
 ## Screenshots
 
-<img align="right" alt="Coding" width="100" src="Screenshots/Register page.jpg">
+<img align="right" alt="Coding" width="100" src="Screenshots/register page.jpg">
 <img align="right" alt="Coding" width="100" src="Screenshots/login.jpg">
 <img align="right" alt="Coding" width="100" src="Screenshots/Drawer.jpg">
 <img align="right" alt="Coding" width="100" src="Screenshots/Account info page.jpg">
