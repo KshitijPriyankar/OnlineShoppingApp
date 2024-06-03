@@ -47,7 +47,7 @@ To run the *Online Shopping Android App* on your local machine, follow these ste
 
 1. Clone this repository:
    ```shell
-   $ git clone https://github.com/rajkishorbgp/Online-Shopping-Application
+   $ git clone https://github.com/KshitijPriyankar/Online-Shopping-Application
    $ cd Online-Shopping-Application
    ```
 
@@ -73,10 +73,5 @@ If you'd like to contribute to the development of this project, please follow th
 - Make your changes and submit a pull request.
 - Follow the code of conduct and respect the project's license.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You can find more details in the [LICENSE.md](LICENSE.md) file.
-
-Your contributions and feedback are highly appreciated. Feel free to connect with me and join in this journey of learning and growth!
 
 Thank you for visiting the *Online Shopping Android App* repository, and I look forward to your support and engagement.
