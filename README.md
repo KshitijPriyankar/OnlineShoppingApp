@@ -25,7 +25,7 @@ The *Online Shopping Android App* is a comprehensive e-commerce application desi
 
 
 ## Live Demo:
-- Application Install: [Downloade](OnlineShopping.apk)
+- Application Install: [Download Here](OnlineShopping.apk)
 
 ## Screenshots
 
