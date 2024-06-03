@@ -29,13 +29,13 @@ The *Online Shopping Android App* is a comprehensive e-commerce application desi
 
 ## Screenshots
 
-<img align="right" alt="Coding" width="100" src="Screenshots/a.png">
-<img align="right" alt="Coding" width="100" src="Screenshots/b.png">
-<img align="right" alt="Coding" width="100" src="Screenshots/c.png">
-<img align="right" alt="Coding" width="100" src="Screenshots/d.png">
-<img align="right" alt="Coding" width="100" src="Screenshots/e.png">
-<img align="right" alt="Coding" width="100" src="Screenshots/o.png">
-<img align="right" alt="Coding" width="100" src="Screenshots/p.png">
+<img align="right" alt="Coding" width="100" src="Screenshots/Register page.jpg">
+<img align="right" alt="Coding" width="100" src="Screenshots/login.jpg">
+<img align="right" alt="Coding" width="100" src="Screenshots/Drawer.jpg">
+<img align="right" alt="Coding" width="100" src="Screenshots/Account info page.jpg">
+<img align="right" alt="Coding" width="100" src="Screenshots/Home 1.png">
+<img align="right" alt="Coding" width="100" src="Screenshots/home 2.png">
+<img align="right" alt="Coding" width="100" src="Screenshots/Cart.png">
 
 ###### Swipe through the screenshots below to catch a glimpse of the app's user-friendly interface:
 
