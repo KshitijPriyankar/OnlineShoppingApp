@@ -12,7 +12,7 @@ Welcome to the **Online Shopping Android App** repository! This app is a result 
 
 ## About
 
-The *Online Shopping Android App* is a comprehensive e-commerce application designed for online shopping. It includes a wide range of features to enhance the shopping experience. This project was undertaken during the Android Developer Training provided by Acmegrade.
+The *Online Shopping Android App* is a comprehensive e-commerce application designed for online shopping. It includes a wide range of features to enhance the shopping experience.
 
 ## Features
 
